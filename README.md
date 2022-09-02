@@ -19,7 +19,7 @@ A simple moonlight theme for Vivaldi web browser 🏕
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
-1. You can get it here: [Moonlight](https://themes.vivaldi.net/themes/V6kJN8aPlWX/versions/1)
+1. You can get it here: [Moonlight](https://themes.vivaldi.net/themes/V6kJN8aPlWX)
 
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
